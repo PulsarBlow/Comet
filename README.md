@@ -33,9 +33,13 @@ Physical merge the temp folder into your meteor app folder :
 
 ```mv temp/* myapp```
 
-Launch your meteor app with mrt
+Install Atmosphere packages
 
-```mrt -p 3000```
+```mrt install```
+
+Launch your meteor app
+
+```meteor -p 3000```
 
 ... and you can start coding.
 
