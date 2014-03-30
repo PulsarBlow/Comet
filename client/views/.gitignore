@@ -1,0 +1,5 @@
+# Just forge git to keep track of this repository
+
+# client/view will contains your view templates
+# You should create sub-repositories by view features
+# eg: client/view/feature

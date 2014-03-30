@@ -1,0 +1,4 @@
+# Just force git to keep track of this repository
+
+# client/lib/helpers
+# Any helpers (handlebars or other else) that are used often in view files
